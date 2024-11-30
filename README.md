@@ -9,17 +9,13 @@ At its core, this project promotes user control, privacy, and fair compensation 
 This platform enables users to create customizable tasks for contributors while ensuring automatic compensation upon completion. A robust reputation system fosters trust and accuracy, allowing users to easily upload datasets in CSV format and access their results through intuitive dashboards. By leveraging Aptos' fast and secure infrastructure, the platform enhances efficiency and transparency, showcasing how innovative technology can empower communities.
 
 
-### Demo Video
-
-[Click here to watch the demo video](https://youtu.be/f_S0T38ucyU)
-
 ### Live Link
 
 [Explore DataScult here](https://datasculpt.vercel.app)
 
 ### Github Link
 
-[Explore the Github Repo here](https://github.com/preyanshu/datasculpt)
+[Explore the Github Repo here](https://github.com/Sushant041/LabelLedger)
 
 ## Working
 
