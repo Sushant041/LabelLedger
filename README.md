@@ -1,8 +1,9 @@
-# DataSculpt
+# LabelLedger
 
-![pixelcut-export (1).png](https://cdn.dorahacks.io/static/files/1928a875de8f9ac54e7e93b4728b0dab.png)
 
 ## Introduction
+
+![Screenshot from 2024-11-30 23-17-37.png](https://cdn.dorahacks.io/static/files/1937e326078469cdf0c579845debce88.png)
 
 At its core, this project promotes user control, privacy, and fair compensation within a collaborative environment, transforming how contributions are recognized and rewarded in a data-driven landscape. As decentralized solutions reshape user engagement, the Decentralized Data Labeling Platform on the Aptos blockchain offers a unique approach to fulfilling the demand for high-quality data in artificial intelligence.
 
@@ -11,7 +12,7 @@ This platform enables users to create customizable tasks for contributors while 
 
 ### Live Link
 
-[Explore DataScult here](https://datasculpt.vercel.app)
+[Explore LabelLedger here](https://datasculpt.vercel.app)
 
 ### Github Link
 
@@ -20,7 +21,7 @@ This platform enables users to create customizable tasks for contributors while 
 ## Working
 
 
-The following steps outline how **DataSculpt** functions :
+The following steps outline how **LabelLedger** functions :
 
 ## For Creators :
 
